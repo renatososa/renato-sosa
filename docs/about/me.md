@@ -1,4 +1,4 @@
-# Sobre mi
+# Renato Sosa Machado Scheeffer
 
 ![](../images/perezoso.jpg)
 
