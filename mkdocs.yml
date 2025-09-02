@@ -1,11 +1,11 @@
 # Replace the text below to customize your site
-site_name: Nombre Estudiante - UTEC & Fab Lab Barcelona
+site_name: Renato Sosa Machado - UTEC & Fab Lab Barcelona
 site_description: Master in Design for Emergent Futures
-site_author: Nombre Estudiante
-copyright: Copyleft 2024 "Nombre Estudiante" - GNU Free Documentation License
-repo_name: 'Name : Github Repo'
+site_author: Renato Sosa Machado
+copyright: Copyleft 2024 "Renato Sosa Machado" - GNU Free Documentation License
+repo_name: 'Name : renato-sosa'
 site_url: https://renatososa.github.io/renato-sosa/
-repo_url: https://github.com/fablabbcn/efdi-template
+repo_url: https://github.com/renatososa/renato-sosa
 
 
 nav:
