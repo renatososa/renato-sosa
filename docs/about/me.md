@@ -1,7 +1,5 @@
-# Sobre mi
+# Renato Sosa Machado Scheeffer
 
 ![](../images/perezoso.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit **[my website](https://community.emergentfutures.io/courses/5566525/content)**
+Mi nombre es Renato, tengo 26 años y actualmente vivo en Paysandú. Tengo un gran interés en la electrónica y la tecnología aplicada a la neurociencia, disfruto mucho crear y poner en práctica mis ideas. Soy Licenciado en Ingeniería Biológica en la UdelaR, donde desarrollé mi trabajo final de grado sobre el control de prótesis de brazo a partir de señales musculares, un tema que me interesa muchísimo. También soy voluntario en la fundación Manos de Héroes, una fundación sin fines de lucro dedicada a la confección y donación de prótesis impresas en 3D en todo el Uruguay. Me desempeño como docente en facultad de ingeniería de la UdelaR, y como técnico de equipos de laboratorio. Como parte de mi trayecto, cursé Desarrollo WEB en Jóvenes a Programar, así como participé de la realización de un dispositivo con la función de electro estimular la glándula de secrecióon de veneno en arañas, para un proyecto de investigación bioquímica en colaboración con un grupo de estudiantes. Actualmente me encuentro cursando la especialización en fabricación digital e innovación en la UTEC, donde espero continuar incorporando herramientas que me permitan llevar adelante mis proyectos.
